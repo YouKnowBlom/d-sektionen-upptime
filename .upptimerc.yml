@@ -5,7 +5,7 @@ delay: 1000 # Add 1s of delay to prevent tripping DDOS protection
 
 sites:
   - name: Medlemstjänster - Backend
-    url: https://backend.d-sektionen.se
+    url: https://backend.d-sektionen.se/tools/status
   - name: Medlemstjänster - Frontend
     url: https://medlem.d-sektionen.se
   - name: Hemsida
@@ -20,8 +20,8 @@ status-website:
   baseUrl: /d-sektionen-upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: D-sektionen - Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Status över D-sektionens tjänster."
+  introMessage: "**Ifall Lysator är nere är troligen våra tjänster också det. Isåfall ligger problemet hos dem.**"
   navbar:
     - title: Status
       href: /
