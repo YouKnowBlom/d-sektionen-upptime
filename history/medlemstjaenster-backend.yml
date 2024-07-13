@@ -1,7 +1,7 @@
-url: https://backend.d-sektionen.se
+url: https://backend.d-sektionen.se/tools/status
 status: down
-code: 403
-responseTime: 165
-lastUpdated: 2024-07-13T08:23:33.080Z
+code: 404
+responseTime: 1022
+lastUpdated: 2024-07-13T23:05:05.190Z
 startTime: 2024-07-13T08:23:32.894Z
 generator: Upptime <https://github.com/upptime/upptime>
