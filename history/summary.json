@@ -58,19 +58,19 @@
     "url": "lysator.liu.se",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lysator",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1649,
-    "timeDay": 1861,
-    "timeWeek": 1649,
-    "timeMonth": 1649,
-    "timeYear": 1649,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 1652,
+    "timeDay": 1798,
+    "timeWeek": 1652,
+    "timeMonth": 1652,
+    "timeYear": 1652,
     "dailyMinutesDown": {
-      "2024-07-18": 0
+      "2024-07-18": 7
     }
   }
 ]
