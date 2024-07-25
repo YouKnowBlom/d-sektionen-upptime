@@ -40,18 +40,20 @@
     "url": "https://d-sektionen.se",
     "icon": "https://icons.duckduckgo.com/ip3/d-sektionen.se.ico",
     "slug": "hemsida",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1753,
-    "timeDay": 1898,
-    "timeWeek": 2050,
-    "timeMonth": 1753,
-    "timeYear": 1753,
-    "dailyMinutesDown": {}
+    "time": 1688,
+    "timeDay": 1373,
+    "timeWeek": 1878,
+    "timeMonth": 1688,
+    "timeYear": 1688,
+    "dailyMinutesDown": {
+      "2024-07-25": 0
+    }
   },
   {
     "name": "Lysator",
