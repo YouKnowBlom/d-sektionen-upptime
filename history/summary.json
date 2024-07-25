@@ -40,19 +40,19 @@
     "url": "https://d-sektionen.se",
     "icon": "https://icons.duckduckgo.com/ip3/d-sektionen.se.ico",
     "slug": "hemsida",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1688,
-    "timeDay": 1373,
-    "timeWeek": 1878,
-    "timeMonth": 1688,
-    "timeYear": 1688,
+    "status": "up",
+    "uptime": "98.56%",
+    "uptimeDay": "82.71%",
+    "uptimeWeek": "97.53%",
+    "uptimeMonth": "98.56%",
+    "uptimeYear": "98.56%",
+    "time": 1684,
+    "timeDay": 1456,
+    "timeWeek": 1846,
+    "timeMonth": 1684,
+    "timeYear": 1684,
     "dailyMinutesDown": {
-      "2024-07-25": 0
+      "2024-07-25": 249
     }
   },
   {
