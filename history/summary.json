@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 935,
-    "timeDay": 1342,
+    "time": 937,
+    "timeDay": 984,
     "timeWeek": 995,
-    "timeMonth": 935,
-    "timeYear": 935,
+    "timeMonth": 937,
+    "timeYear": 937,
     "dailyMinutesDown": {}
   },
   {
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 183,
-    "timeDay": 262,
-    "timeWeek": 221,
+    "timeDay": 188,
+    "timeWeek": 207,
     "timeMonth": 183,
     "timeYear": 183,
     "dailyMinutesDown": {}
@@ -41,16 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/d-sektionen.se.ico",
     "slug": "hemsida",
     "status": "up",
-    "uptime": "99.30%",
+    "uptime": "99.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.30%",
-    "uptimeYear": "99.30%",
-    "time": 1664,
-    "timeDay": 1555,
-    "timeWeek": 1785,
-    "timeMonth": 1664,
-    "timeYear": 1664,
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.33%",
+    "time": 1662,
+    "timeDay": 1599,
+    "timeWeek": 1752,
+    "timeMonth": 1662,
+    "timeYear": 1662,
     "dailyMinutesDown": {
       "2024-07-25": 249
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 1640,
-    "timeDay": 1842,
-    "timeWeek": 1620,
-    "timeMonth": 1640,
-    "timeYear": 1640,
+    "time": 1633,
+    "timeDay": 1421,
+    "timeWeek": 1593,
+    "timeMonth": 1633,
+    "timeYear": 1633,
     "dailyMinutesDown": {
       "2024-07-18": 7
     }
