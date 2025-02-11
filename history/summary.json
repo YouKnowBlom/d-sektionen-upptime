@@ -4,19 +4,19 @@
     "url": "https://backend.d-sektionen.se/tools/status",
     "icon": "https://icons.duckduckgo.com/ip3/backend.d-sektionen.se.ico",
     "slug": "medlemstjaenster-backend",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1046,
-    "timeDay": 1262,
-    "timeWeek": 1318,
-    "timeMonth": 1191,
-    "timeYear": 1046,
+    "time": 1048,
+    "timeDay": 1434,
+    "timeWeek": 1354,
+    "timeMonth": 1204,
+    "timeYear": 1048,
     "dailyMinutesDown": {
-      "2025-02-11": 0
+      "2025-02-11": 10
     }
   },
   {
