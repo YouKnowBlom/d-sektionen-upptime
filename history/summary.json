@@ -4,9 +4,9 @@
     "url": "https://backend.d-sektionen.se/tools/status",
     "icon": "https://icons.duckduckgo.com/ip3/backend.d-sektionen.se.ico",
     "slug": "medlemstjaenster-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 768,
     "timeYear": 958,
     "dailyMinutesDown": {
+      "2025-07-28": 0,
       "2025-06-14": 75,
       "2025-02-11": 10
     }
