@@ -1,7 +1,7 @@
 url: https://backend.d-sektionen.se/tools/status
-status: down
-code: 500
-responseTime: 62
-lastUpdated: 2025-11-18T11:36:31.991Z
+status: up
+code: 200
+responseTime: 883
+lastUpdated: 2025-11-18T12:14:27.670Z
 startTime: 2024-07-13T08:23:32.894Z
 generator: Upptime <https://github.com/upptime/upptime>
