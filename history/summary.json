@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/backend.d-sektionen.se.ico",
     "slug": "medlemstjaenster-backend",
     "status": "up",
-    "uptime": "99.35%",
+    "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.14%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "98.76%",
     "time": 1159,
-    "timeDay": 1335,
-    "timeWeek": 2963,
+    "timeDay": 641,
+    "timeWeek": 2937,
     "timeMonth": 1482,
     "timeYear": 1256,
     "dailyMinutesDown": {
@@ -41,8 +41,7 @@
       "2025-08-20": 6,
       "2025-08-17": 23,
       "2025-08-15": 11,
-      "2025-07-28": 56,
-      "2025-06-14": 75
+      "2025-07-28": 56
     }
   },
   {
@@ -57,9 +56,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 254,
-    "timeDay": 396,
-    "timeWeek": 326,
-    "timeMonth": 275,
+    "timeDay": 127,
+    "timeWeek": 318,
+    "timeMonth": 266,
     "timeYear": 259,
     "dailyMinutesDown": {
       "2025-11-18": 138,
@@ -77,11 +76,11 @@
     "uptimeWeek": "98.52%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "97.63%",
-    "time": 2545,
-    "timeDay": 23770,
-    "timeWeek": 7272,
-    "timeMonth": 3925,
-    "timeYear": 2779,
+    "time": 2548,
+    "timeDay": 2861,
+    "timeWeek": 7318,
+    "timeMonth": 3950,
+    "timeYear": 2782,
     "dailyMinutesDown": {
       "2026-06-08": 63,
       "2026-06-07": 86,
@@ -129,8 +128,7 @@
       "2025-07-26": 160,
       "2025-06-17": 1078,
       "2025-06-16": 1440,
-      "2025-06-15": 1440,
-      "2025-06-14": 1008
+      "2025-06-15": 1440
     }
   },
   {
@@ -144,11 +142,11 @@
     "uptimeWeek": "98.53%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.05%",
-    "time": 1127,
-    "timeDay": 942,
-    "timeWeek": 1030,
-    "timeMonth": 895,
-    "timeYear": 898,
+    "time": 1124,
+    "timeDay": 774,
+    "timeWeek": 999,
+    "timeMonth": 899,
+    "timeYear": 899,
     "dailyMinutesDown": {
       "2026-06-08": 62,
       "2026-06-07": 86,
@@ -168,8 +166,7 @@
       "2025-08-19": 7,
       "2025-08-12": 27,
       "2025-08-04": 7,
-      "2025-07-14": 12,
-      "2025-06-14": 103
+      "2025-07-14": 12
     }
   }
 ]
