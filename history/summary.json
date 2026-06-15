@@ -73,9 +73,9 @@
     "status": "up",
     "uptime": "98.35%",
     "uptimeDay": "98.18%",
-    "uptimeWeek": "99.11%",
+    "uptimeWeek": "99.14%",
     "uptimeMonth": "99.60%",
-    "uptimeYear": "97.81%",
+    "uptimeYear": "97.82%",
     "time": 2553,
     "timeDay": 3274,
     "timeWeek": 6402,
@@ -128,8 +128,7 @@
       "2025-07-31": 31,
       "2025-07-26": 160,
       "2025-06-17": 1078,
-      "2025-06-16": 1440,
-      "2025-06-15": 1440
+      "2025-06-16": 1440
     }
   },
   {
@@ -140,7 +139,7 @@
     "status": "up",
     "uptime": "99.22%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.39%",
+    "uptimeWeek": "99.40%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.07%",
     "time": 1123,
